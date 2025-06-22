@@ -94,7 +94,5 @@ Detect and localize small legs from images using OpenCV-based contour analysis. 
 
 ---
 
-## 📁 Output Example
 
-Each processed image looks like this:
 
